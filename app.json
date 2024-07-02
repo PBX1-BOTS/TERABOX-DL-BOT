@@ -38,7 +38,7 @@
     },
     "COOKIE": {
       "description": "get chrome dev tools. ",
-      "value": "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E="
+      "value": "PANWEB=1; csrfToken=6PKKjzhTUkwFg_n4qW1Lt30e; lang=en; TSID=CAHN2U3NnDXcnR7kJkDNzLZdvih1Nao; __bid_n=1906e71c3e4a6a41944207; _ga=; __stripe_mid=; ndus=; browserid=ZJYqaWZCP7jD57uTWB2MFGT-9uE-vrC6nG07rQm8Wc7cEdLJwP2iayHMPS0=; ndut_fmt=; _ga_06ZNKL8C2E="
     },
     "PRIVATE_CHAT_ID": {
       "description": "for download video store chat id.",
